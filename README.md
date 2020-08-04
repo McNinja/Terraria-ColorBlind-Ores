@@ -4,6 +4,9 @@ So im  color blind and finding ores with the Spelunker potion was basically wort
 
 Super basic pack, I changed it so that hard mode ores will just show a letter and a color.
 
+## Install
+Download `ColorBlindPack` and place it into `Documents\My Games\Terraria\ResourcePacks` (Windows key + r)
+
 ## Examples
 
 P - Palladium  
@@ -24,6 +27,3 @@ L - Luminite
 ![Image of Luminite Ore](https://i.imgur.com/wW0JbJp.png)  
 
 [Backup, Imgur Gallery](https://imgur.com/gallery/2lzFQ3S)  
-
-## Install
-Download `ColorBlindPack` and place it into `Documents\My Games\Terraria\ResourcePacks` (Windows key + r)
