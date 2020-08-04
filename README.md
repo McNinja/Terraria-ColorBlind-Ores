@@ -7,12 +7,12 @@ Super basic pack, I changed it so that hard mode ores will just show a letter an
 ## Examples
 
 P - Palladium  
-![Image of Palladium Ore](https://i.imgur.com/7fpmOhB.png)
+![Image of Palladium Ore](https://i.imgur.com/7fpmOhB.png)  
 C - Cobalt
-![Image of Cobalt Ore](https://i.imgur.com/yQf2T4u.png)
+![Image of Cobalt Ore](https://i.imgur.com/yQf2T4u.png)  
 T - Titanium
 ![Image of Titanium Ore](https://i.imgur.com/ooen64S.png)
-O - Orichalcum 
+O - Orichalcum
 ![Image of Orichalcum Ore](https://i.imgur.com/pRJHl0k.png)
 M - Mythril
 ![Image of Mythril Ore](https://i.imgur.com/6qqoJPg.png)
