@@ -8,6 +8,12 @@ Super basic pack, I changed it so that hard mode ores will just show a letter an
 Download `ColorBlindPack.zip` and place it into `Documents\My Games\Terraria\ResourcePacks` (Windows key + r)
 
 ## Examples
+### Ore in the wild
+The picture below shows what it will look like in the wild with a Spelunker potion going. Far right of the image shows some Orichalcum ore.  
+
+![Orichalcum ore in the wild](https://i.imgur.com/GalbcTd.png)  
+
+### Ores
 
 P - Palladium  
 ![Image of Palladium Ore](https://i.imgur.com/7fpmOhB.png)  
