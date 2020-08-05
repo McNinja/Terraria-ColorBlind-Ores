@@ -1,11 +1,11 @@
 # Terraria ColorBlind Texture Pack
 
-So im  color blind and finding ores with the Spelunker potion was basically worthless. So I changed the ore pictures for hard mode ores.
+So im color blind and finding ores with the Spelunker potion was basically worthless. So I changed the ore pictures for the major ores.
 
-Super basic pack, I changed it so that hard mode ores will just show a letter and a color.
+Super basic pack, I changed it so that ores will just show a letter and a color.
 
 ## Install
-Download `ColorBlindPack.zip` and place it into `Documents\My Games\Terraria\ResourcePacks` (Windows key + r)
+Download `ColorBindOrePack.zip` and place it into `Documents\My Games\Terraria\ResourcePacks` (Windows key + r)
 
 ## Examples
 ### Ore in the wild
@@ -14,7 +14,14 @@ The picture below shows what it will look like in the wild with a Spelunker poti
 ![Orichalcum ore in the wild](https://i.imgur.com/GalbcTd.png)  
 
 ### Ores
-
+G - Gold  
+![Image of Gold Ore](https://i.imgur.com/rfUl02J.png)  
+S - Silver  
+![Image of Silver Ore](https://i.imgur.com/A0q9VOI.png)  
+T - Tungsten  
+![Image of Tungsten Ore](https://i.imgur.com/9thmZEj.png)  
+P - Platinum  
+![Image of Platinum Ore](https://i.imgur.com/R6zp3Cf.png)  
 P - Palladium  
 ![Image of Palladium Ore](https://i.imgur.com/7fpmOhB.png)  
 C - Cobalt  
