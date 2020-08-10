@@ -33,7 +33,7 @@ O - Orichalcum
 M - Mythril  
 ![Image of Mythril Ore](https://i.imgur.com/6qqoJPg.png)  
 A - Adamantite  
-![Image of Adamantite Ore](https://i.imgur.com/u2IEYRR.png)  
+![Image of Adamantite Ore](https://i.imgur.com/Xog5oC6.png)  
 C - Chlorophyte  
 ![Image of Chlorophyte Ore](https://i.imgur.com/rzmzy9e.png)  
 L - Luminite  
